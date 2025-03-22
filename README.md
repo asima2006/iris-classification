@@ -42,7 +42,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/asima2006/iris-classification
+   git clone https://github.com/asima2006/iris-classification.git
    cd Iris_Flower_Classification
    ```
 
